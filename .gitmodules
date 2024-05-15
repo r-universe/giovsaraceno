@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "QuadratiK"]
 	path = QuadratiK
-	url = https://github.com/cran/QuadratiK
+	url = https://github.com/giovsaraceno/quadratik-package
